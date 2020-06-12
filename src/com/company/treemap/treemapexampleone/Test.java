@@ -1,4 +1,4 @@
-package com.company.treemap;
+package com.company.treemap.treemapexampleone;
 
 import sun.reflect.generics.tree.Tree;
 
